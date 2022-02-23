@@ -1,0 +1,49 @@
+.basic-section{
+    background-image: url("../images/main-bg-tablet.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 103px;
+    padding-bottom: 417px;
+}.basic {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.basic__content{
+    margin: 0;
+    padding: 0;
+    width: 436px;
+    text-align: center;
+}
+.basic__title {
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 18px;
+    margin-bottom: 24px;
+}
+.basic__btn {
+    padding: 11px 22px;
+    text-decoration: none;
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    color: #191919;
+    background: linear-gradient(90deg, #C1AD64 1.88%, #A98343 35.61%, #A27C3D 54.52%, #C4B067 87.74%);
+    box-shadow: 7px 7px 10px #000000;
+}
+.line{
+    margin: 0;
+    width: 100%;
+    height: 25px;
+    background: #B89E59;
+}
